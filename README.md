@@ -5,7 +5,7 @@
 
 # 👨‍💻 Alan Joseph
 
-Hi there! 👋 I'm **Alan Joseph**, a passionate **Full-Stack Developer, Programmer & Tech Enthusiast** 🚀.  
+Hi there!  I'm **Alan Joseph**, a passionate **Full-Stack Developer, Programmer & Tech Enthusiast** .  
 I love building modern web apps, experimenting with AI/ML, and creating 3D simulations using Three.js & Unity.  
 
 ---
