@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Alan%20Joseph&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Mobile%20App%20Developer%20|%20Data%20Analyst&descAlignY=58&descAlign=50" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=Alan%20Joseph&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20|%20Full%20Stack%20Engineer%20|%20AI%20Developer&descSize=22&descAlignY=58&descAlign=50"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Mobile+Application+Developer;Full+Stack+Engineer;AI+%26+Data+Analytics+Enthusiast;Three.js+%26+3D+Simulation+Developer" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=Software+Developer;Mobile+Application+Developer;Full+Stack+Engineer;AI+%26+Data+Analytics+Enthusiast;Three.js+%26+3D+Simulation+Developer" 
+  />
 </p>
+
 
 <p align="center">
   <a href="https://portfolioalan.web.app/" target="_blank">
@@ -116,6 +122,15 @@ Focused primarily on:
 
 ---
 
+# Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanjoseph77/alanjoseph77/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanjoseph77/alanjoseph77/output/pacman-contribution-graph.svg">
+  
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alanjoseph77/alanjoseph77/output/pacman-contribution-graph.svg">
+</picture>
+
 # Featured Projects
 
 <p align="center">
@@ -197,7 +212,10 @@ Focused primarily on:
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-</p>
+
