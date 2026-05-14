@@ -1,112 +1,159 @@
-<!-- Programmer Illustration -->
+```md id="n4x8qw"
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alanjoseph77/alanjoseph77/main/assets/programmer.gif" alt="Programmer at work" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Alan%20Joseph&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descAlign=50" />
 </p>
 
-# Alan Joseph
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alanjoseph77/alanjoseph77/main/assets/programmer.gif" width="420" />
+</p>
 
-## About Me
-
-Results-driven **Software Developer and Data Analyst** with MCA specialization in **Software Development**. Experienced in **mobile application development**, AI model fine-tuning, ETL pipeline automation, Business Intelligence dashboards, and cross-platform application development. Passionate about building scalable digital solutions, interactive 3D experiences, and modern full-stack applications using cutting-edge technologies.
-
-Focused primarily on **mobile app development**, full-stack engineering, and AI-powered systems with hands-on experience in React Native, Flutter, Three.js, Node.js, Firebase, and cloud-based architectures.
-
----
-
-## Portfolio
-[Portfolio Website](https://portfolioalan.web.app/)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Mobile+Application+Developer;Full+Stack+Engineer;AI+%26+Data+Analytics+Enthusiast;Three.js+%26+3D+Simulation+Developer" />
+</p>
 
 ---
 
-## Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alanalz_77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-joseph-monichan/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alanmonichan122@gmail.com)
+# About Me
+
+Results-driven **Software Developer and Data Analyst** with MCA specialization in **Software Development**. Experienced in **mobile application development**, AI model fine-tuning, ETL pipeline automation, Business Intelligence dashboards, and cross-platform application development.
+
+Passionate about building scalable digital products, immersive 3D simulations, AI-powered systems, and modern web/mobile applications using cutting-edge technologies.
+
+Focused primarily on:
+- Mobile Application Development
+- Full-Stack Engineering
+- AI & Automation
+- 3D Simulation Systems
+- Cloud & Scalable Architectures
+
+---
+
+# Portfolio
+
+<p align="center">
+  <a href="https://portfolioalan.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/alanalz_77">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/alan-joseph-monichan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:alanmonichan122@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 # Tech Stack
 
-## Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
 
-## Frontend & Mobile Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,php,react,nextjs,nodejs,flutter,firebase,mongodb,mysql,tailwind,gcp,tensorflow,threejs,unity,arduino,html,css,git,github,vscode&perline=8" />
 
-## Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## AI, Data & Visualization
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-## 3D, Simulation & Hardware
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+</div>
 
 ---
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=alanjoseph77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+# GitHub Analytics
 
-![](https://nirzak-streak-stats.vercel.app/?user=alanjoseph77&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjoseph77&theme=dark&hide_border=false&layout=compact)
-
----
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alanjoseph77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alanjoseph77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjoseph77&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alanjoseph77&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=alanjoseph77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alanjoseph77&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
 
 ---
 
-## Areas of Interest
-- Mobile Application Development
-- Full-Stack Web Development
-- Artificial Intelligence & Machine Learning
-- ETL Automation & Data Engineering
-- Business Intelligence Dashboards
-- 3D Simulations & Virtual Labs
-- AR/VR Development
-- IoT & Embedded Systems
-- Cloud Computing & Scalable Systems
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanjoseph77&theme=react-dark&hide_border=true&area=true"/>
+</p>
 
 ---
 
-## Fun Facts
+# Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=alanjoseph77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+# Areas of Interest
+
+<div align="center">
+
+| Mobile Development | AI & ML | Full Stack | 3D & AR/VR |
+|---|---|---|---|
+| Flutter & React Native | TensorFlow | MERN Stack | Three.js & Unity |
+| Firebase Apps | AI Automation | Cloud Systems | Virtual Labs |
+| Cross Platform Apps | Data Analytics | APIs & Backend | Interactive Simulations |
+
+</div>
+
+---
+
+# Fun Facts
+
 - Passionate about building modern digital experiences
-- Enjoy creating interactive 3D simulations and virtual labs
-- Love combining hardware with intelligent software systems
-- Interested in AI-driven automation and analytics
-- Constantly exploring emerging technologies and frameworks
-- Motto: *“Build, Break, Fix, Learn, Repeat”*
+- Love creating interactive 3D simulations and virtual labs
+- Interested in AI-powered automation systems
+- Enjoy mixing hardware with software projects
+- Constantly exploring emerging technologies
+- Motto: **Build, Break, Fix, Learn, Repeat**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=alanjoseph77&icon=0&color=0)](https://visitcount.itsvg.in)
+# Profile Views
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alanjoseph77&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
+```
