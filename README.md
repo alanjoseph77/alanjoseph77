@@ -1,43 +1,49 @@
-```md id="n4x8qw"
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Alan%20Joseph&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Alan%20Joseph&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Mobile%20App%20Developer%20|%20Data%20Analyst&descAlignY=58&descAlign=50" />
 </p>
 
-<!-- Animated GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alanjoseph77/alanjoseph77/main/assets/programmer.gif" width="420" />
-</p>
-
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Mobile+Application+Developer;Full+Stack+Engineer;AI+%26+Data+Analytics+Enthusiast;Three.js+%26+3D+Simulation+Developer" />
+</p>
+
+<p align="center">
+  <a href="https://portfolioalan.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="mailto:alanmonichan122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/alan-joseph-monichan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # About Me
 
-Results-driven **Software Developer and Data Analyst** with MCA specialization in **Software Development**. Experienced in **mobile application development**, AI model fine-tuning, ETL pipeline automation, Business Intelligence dashboards, and cross-platform application development.
+Results-driven **Software Developer and Data Analyst** with MCA specialization in **Software Development**.
 
-Passionate about building scalable digital products, immersive 3D simulations, AI-powered systems, and modern web/mobile applications using cutting-edge technologies.
+Experienced in:
+- Mobile Application Development
+- AI Model Fine-Tuning
+- ETL Pipeline Automation
+- Business Intelligence Dashboards
+- Cross-Platform Application Development
+- Full Stack Engineering
+- 3D Simulations using Three.js & Unity
+
+Passionate about building scalable applications, immersive user experiences, and intelligent software systems using modern technologies.
 
 Focused primarily on:
-- Mobile Application Development
-- Full-Stack Engineering
+- Mobile App Development
+- Full Stack Web Development
 - AI & Automation
-- 3D Simulation Systems
-- Cloud & Scalable Architectures
-
----
-
-# Portfolio
-
-<p align="center">
-  <a href="https://portfolioalan.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+- Cloud-Based Architectures
+- Interactive 3D Simulations
+- Data Analytics & Visualization
 
 ---
 
@@ -61,28 +67,75 @@ Focused primarily on:
 
 # Tech Stack
 
-<div align="center">
+## Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,php,java&perline=7" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,php,react,nextjs,nodejs,flutter,firebase,mongodb,mysql,tailwind,gcp,tensorflow,threejs,unity,arduino,html,css,git,github,vscode&perline=8" />
+## Frontend & Mobile Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind,bootstrap&perline=7" />
+</p>
 
-</div>
+## Backend & Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=5" />
+</p>
+
+## Cloud, AI & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp,tensorflow,git,github,vscode,postman&perline=6" />
+</p>
+
+## 3D & Hardware
+<p align="center">
+<img src="https://skillicons.dev/icons?i=threejs,unity,arduino&perline=3" />
+</p>
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alanjoseph77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjoseph77&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanjoseph77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanjoseph77&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanjoseph77&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# GitHub Streak
+# Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alanjoseph77&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanjoseph77&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+# Featured Projects
+
+<p align="center">
+
+<a href="https://furniture-shop-website-5va2bbxw2-alanjoseph77s-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/Furniture%20Shop%20Website-Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://portfolioalan.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-2962FF?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alanjoseph77">
+  <img src="https://img.shields.io/badge/Three.js-Virtual%20Labs-111111?style=for-the-badge&logo=three.js&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alanjoseph77">
+  <img src="https://img.shields.io/badge/AI%20%26%20Data-Projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -95,14 +148,6 @@ Focused primarily on:
 
 ---
 
-# Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanjoseph77&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
 # Random Dev Quote
 
 <p align="center">
@@ -111,37 +156,37 @@ Focused primarily on:
 
 ---
 
-# Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alanjoseph77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-
 # Areas of Interest
 
 <div align="center">
 
 | Mobile Development | AI & ML | Full Stack | 3D & AR/VR |
 |---|---|---|---|
-| Flutter & React Native | TensorFlow | MERN Stack | Three.js & Unity |
-| Firebase Apps | AI Automation | Cloud Systems | Virtual Labs |
-| Cross Platform Apps | Data Analytics | APIs & Backend | Interactive Simulations |
+| Flutter & React Native | TensorFlow | MERN Stack | Three.js |
+| Firebase Apps | AI Automation | Cloud Systems | Unity |
+| Cross Platform Apps | Data Analytics | APIs & Backend | Virtual Labs |
 
 </div>
+
+---
+
+# Current Focus
+
+- Building scalable mobile applications
+- Developing AI-powered automation systems
+- Creating immersive Three.js virtual labs
+- Working on cloud-native applications
+- Exploring AR/VR experiences with Unity
 
 ---
 
 # Fun Facts
 
 - Passionate about building modern digital experiences
-- Love creating interactive 3D simulations and virtual labs
-- Interested in AI-powered automation systems
-- Enjoy mixing hardware with software projects
-- Constantly exploring emerging technologies
-- Motto: **Build, Break, Fix, Learn, Repeat**
+- Love creating interactive 3D simulations
+- Interested in AI-powered systems
+- Enjoy combining hardware with software projects
+- Constantly learning emerging technologies
 
 ---
 
@@ -153,8 +198,6 @@ Focused primarily on:
 
 ---
 
-<!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
-```
